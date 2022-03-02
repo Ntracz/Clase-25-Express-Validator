@@ -1,0 +1,10 @@
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /favicon.ico
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /admin?user=Ada
+El usuario ingreso a la ruta: /admin?user=Alex
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /admin?user=Alex
+El usuario ingreso a la ruta: /admin?user=Ada
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /admin
